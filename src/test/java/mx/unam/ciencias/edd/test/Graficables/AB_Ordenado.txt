@@ -1,0 +1,4 @@
+#Clase
+    ArbolOrdenado
+    #elementos
+    7 8 6 9 16 34 5 3
