@@ -11,13 +11,13 @@ Este proyecto se realizó usando Maven, por lo que es necesario que se tenga ins
 
 Dirígiete a la carpeta raiz de este repositorio y ejecuta la siguiente instrucción:
 
-  mvn compile
+    mvn compile
 
 ## Instalar programa
 
 Dirígiete a la carpeta raiz de este repositorio y ejecuta la siguiente instrucción:
 
-  mvn install
+    mvn install
   
  acto seguido se empezará a instalar el programa.
  
@@ -25,7 +25,7 @@ Dirígiete a la carpeta raiz de este repositorio y ejecuta la siguiente instrucc
 
 Para esto es necesario usar la siguiente sintaxis dentro de la carpeta raiz del programa:
 
-  java -jar target/proyecto2 [<Nombre de archivo> | Entrada estandar]
+    java -jar target/proyecto2 [<Nombre de archivo> | Entrada estandar]
   
 Si se intenta utilizar el programa con un archivo específico, entonces debes especificar la ruta de éste, además debe seguir la siguiente estructura
  
